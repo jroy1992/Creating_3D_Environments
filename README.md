@@ -1,6 +1,10 @@
 # Creating_3D_Environments
 
 ## Installing requirements
+For windows:
+* git clone https://github.com/jroy1992/Creating_3D_Environments (install git from https://gitforwindows.org/)
+* Install C++ compiler for python https://www.microsoft.com/en-us/download/details.aspx?id=44266 (for ratcave)
+* pip install numpy
 pip install -r requirements.txt
 
 ## workshop_files
