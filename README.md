@@ -1,8 +1,8 @@
 # Creating_3D_Environments
 
 ## Installing requirements
-Python 2.7.16: https://www.python.org/downloads/release/python-2716/
-git clone or download: https://github.com/jroy1992/Creating_3D_Environments
+* Python 2.7.16: https://www.python.org/downloads/release/python-2716/
+* git clone or download: https://github.com/jroy1992/Creating_3D_Environments
 
 For windows:
 * Install C++ compiler for python https://www.microsoft.com/en-us/download/details.aspx?id=44266 (for ratcave)
