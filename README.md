@@ -1,4 +1,5 @@
 # Creating_3D_Environments
+* Presentation: https://docs.google.com/presentation/d/1UUzn8nghQpaG45M1mDJHnh2LzjExjmgV/edit#slide=id.p20
 
 ## Installing requirements
 * Python 2.7.16: https://www.python.org/downloads/release/python-2716/
