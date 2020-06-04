@@ -33,3 +33,11 @@ The workshop is divided into below incremental stages
 * workshop_files/probability_map.jpg
 * workshop_files/probability_map_D.jpg
 * workshop_files/ramp.jpg
+
+# Final Outputs
+
+## Variations based on scale and color
+![Color and scale variations](https://github.com/jroy1992/Creating_3D_Environments/blob/master/Variations.PNG)
+
+## Image based scattering
+![Image based scattering](https://github.com/jroy1992/Creating_3D_Environments/blob/master/Image_based_scattering.PNG)
