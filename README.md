@@ -41,3 +41,9 @@ The workshop is divided into below incremental stages
 
 ## Image based scattering
 ![Image based scattering](https://github.com/jroy1992/Creating_3D_Environments/blob/master/Image_based_scattering.PNG)
+
+
+# Team:
+* https://github.com/aparna-d2
+* https://github.com/ssreeram-DD
+* https://github.com/garvitverma
