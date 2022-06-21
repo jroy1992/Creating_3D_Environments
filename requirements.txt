@@ -1,5 +1,5 @@
 future==0.17.1
-numpy==1.16.4
+numpy==1.22.0
 pyglet==1.4.1
 ratcave==0.8.0
 six==1.12.0
